@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# 005.StringOpsRepeat.py -- An introduction to built in string operations, repeat 
+# -- An introduction to built in string operations, repeating 
 
 knights = "Ni!" 	# Monty Python and the Holy Grail reference
 

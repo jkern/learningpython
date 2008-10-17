@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# 005.StringOperations.py -- An introduction to built in string operations, concatenation 
+# -- An introduction to built in string operations, concatenation 
 
 h = ''			# First let's make an empty string called 'h'. This can be tought of as a container. Right now the container is empty.
 

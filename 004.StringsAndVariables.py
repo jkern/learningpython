@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# 004.StringsAndVars.py -- Strings and variables 
+# -- Strings and variables 
 
 # A variable is a symbol, it represnets somthing other than it's literal meaning.
 # For example  x = 2, even thogh x is a letter it now represents the number 2.

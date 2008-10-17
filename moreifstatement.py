@@ -1,0 +1,16 @@
+#!/usr/bin/python
+
+# -- More if statments, this is where it gets fun!
+
+y = 3
+
+if y == 3:
+	print "Y is equal to 3!"
+else:
+	print "Y is NOT equal to 3!"
+
+if (y > 0) and (y < 10):
+	print "Y is greater than 0 and less than 10!"
+elif y =< 0:
+	print "Y is 0 or less!"
+

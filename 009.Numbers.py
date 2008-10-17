@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# 007.StringOpsFormat.py -- An introduction to built in string operations, format 
+# -- An introduction to math operations 
 
 x = 5 				# Variables can store numbers too
 y = 3

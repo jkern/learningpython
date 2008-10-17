@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# 007.StringOpsFormat.py -- An introduction to built in string operations, format 
+# -- An introduction to built in string operations
 
 phrase = "Ni!" 		# Monty Python and the Holy Grail reference
 phrase  = phrase * 4	# Oh hai, what are we doing here? This is kind of cool, we are storing a new vaule of the variable INSIDE the variable.

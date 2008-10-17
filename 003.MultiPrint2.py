@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# 3.Hello.py -- Demonstrating an even better multi line print statement
+# -- Demonstrating an even better multi line print statement
 
 print """
 
