@@ -1,9 +1,9 @@
 #!/usr/bin/pyhton
 
-# -- This is an if statement, it checks to see IF a condition is true or false
+# -- An if statement checks to see IF a condition is true or false
 x = 5
 
-# Pay special attention to how the if statments are seperated and tabbed
+# Pay special attention to how the if statements are separated and tabbed
 # This is VERY important to a python program! Without the proper whitespace
 # a python program will NOT RUN!
 
