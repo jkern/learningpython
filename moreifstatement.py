@@ -1,10 +1,12 @@
 #!/usr/bin/python
+"""
+More if statements, this is where it gets fun!
+"""
 
-# -- More if statements, this is where it gets fun!
 # Try different values for y
 y = 3
 
-if y == 3:	# this does NOT make y = 3 it checks to see if y is equivalent to 3, y == 3
+if y == 3:	# this does NOT make y = 3 it checks to see if y is equivalent to 3
 	print "Y is equal to 3!"
 else:
 	print "Y is NOT equal to 3!"

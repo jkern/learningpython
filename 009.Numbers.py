@@ -1,6 +1,7 @@
 #!/usr/bin/python
-
-# -- An introduction to math operations 
+"""
+An introduction to math operations 
+"""
 
 x = 5 				# Variables can store numbers too
 y = 3

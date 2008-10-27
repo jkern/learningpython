@@ -1,6 +1,7 @@
 #!/usr/bin/python
-
-# -- Demonstrating an even better multi line print statement
+"""
+Demonstrating an even better multi line print statement
+"""
 
 print """
 

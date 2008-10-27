@@ -1,6 +1,8 @@
 #!/usr/bin/pyhton
+"""
+An if statement checks to see IF a condition is true or false
+"""
 
-# -- An if statement checks to see IF a condition is true or false
 x = 5
 
 # Pay special attention to how the if statements are separated and tabbed
