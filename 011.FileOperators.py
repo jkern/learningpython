@@ -18,3 +18,4 @@ f = open('tmp.txt', 'w')
 # 'a' will add the data to the end of the file
 
 f.write(string)
+# Now let's write to the file. Sweet two lines to file IO . . .
