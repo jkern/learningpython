@@ -14,7 +14,7 @@ import os
 
 # Comments should be on their own line ABOVE the line you are commenting on.
 VariableNames = "Should be in a CamelCase format."
-VariableNames2 = "Should also be descriptive of their values or funtions."
+VariableNames2 = "Should also be descriptive of their values or functions."
 
 def FunctionOne():
 	"""Doc strings should also be used to document functions.

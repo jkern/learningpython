@@ -1,4 +1,4 @@
-#!/usr/bin/pyhton
+#!/usr/bin/python
 """An if statement that uses elseif (elif) to add arguments to the chain
 
 Joseph Kern
@@ -7,7 +7,7 @@ Joseph Kern
 x = 5
 
 # Pay special attention to how the if statements are separated and tabbed
-# This is VERY important to a python program! Without the proper whitespace
+# This is VERY important to a python program! Without the proper white space
 # a python program will NOT RUN!
 
 if x > 5:

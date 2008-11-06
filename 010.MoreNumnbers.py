@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Math operations and shortcuts, plus some variable assigments
+Math operations and shortcuts, plus some variable assignments
 """
 
 x = 5

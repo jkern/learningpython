@@ -12,5 +12,5 @@ print "We are the knights who say %s" % phrase
 
 			# When I first started learning python the previous line used to confuse me.
 			# Basically the '%s' means a string, there are other types of these too.
-			# They are called string formating codes, and they have many uses.
+			# They are called string formatting codes, and they have many uses.
 

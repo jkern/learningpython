@@ -4,10 +4,10 @@ An introduction to built in string operations, concatenation
 """
 
 h = ''		# First let's make an empty string called 'h'. This can be
-		# tought of as a container. Right now the container is empty.
+		# thought of as a container. Right now the container is empty.
 
 h = "Hel"	# Now we have filled our container with a value. 
-l = "lo"	# Let's make another conatiner. Note: You do not need to 
+l = "lo"	# Let's make another container. Note: You do not need to 
 		# declare the variable first!
 
 
