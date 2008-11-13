@@ -1,6 +1,7 @@
 #!/usr/bin/python
-"""
-More if statements, this is where it gets fun!
+"""More if statements, this is where it gets fun!
+
+Joseph Kern
 """
 
 # Try different values for y

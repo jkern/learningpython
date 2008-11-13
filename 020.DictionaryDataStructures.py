@@ -5,6 +5,7 @@ Joseph Kern
 """
 # A dictionary has a different structure than a list or a tuple.
 # A dictionary needs two values per entry, 'Key' = 'Value'
+# All keys, MUST be unique!!!
 
 MyFirstDict = {'one' : 1, 'two' : 2, 'three' : 3}
 
