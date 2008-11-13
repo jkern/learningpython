@@ -3,15 +3,35 @@ Contributers:	Joseph Kern	joseph DOT a DOT kern AT gmail DOT com
 	GPLv2
 
 Outline:
-	Hello World
-	Variables
-	INPUT
-	OUTPUT
-	Loops
-	Logic
-	Lists
-	Tuples
-	Dictionaries
-	Functions
-	Importing
-	
+	000.StyleExample.py
+	001.Print.py
+	002.MultiPrint.py
+	003.MultiPrint2.py
+	004.StringsAndVariables.py
+	005.StringOpsCat.py
+	006.StringOpsRepeat.py
+	007.StringOpsFormat.py
+	008.StringFormatting.py
+	009.Numbers.py
+	010.MoreNumnbers.py
+	011.CallingFunctions.py
+	012.CreatingFunctions.py
+	013.LogicalIfStatment.py
+	014.LogicalelifStatment.py
+	015.LogicalForLoop.py
+	016.LogicalWhileLoop.py
+	017.LogicalAndOrWithLoops.py
+	018.ListDataStructures.py
+	019.TupleDataStructures.py
+	020.DictionaryDataStructures.py
+	021.SlicingAndDicing.py
+	022.ListMethods.py
+	023.DictionaryMethods.py
+	024.LoopingOverAList.py
+	025.LoopingOverADictionary.py
+	026.AdvancedListLooping.py
+	027.TypeCasting.py
+	028.FileOperators.py
+	029.OOPandClass.py
+	030.BulltinFuctions.py
+	README
