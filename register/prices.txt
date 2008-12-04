@@ -1,0 +1,6 @@
+Burger:1.50:
+ChixBurger:1.45:
+Fries:1.00:
+Onion Rings:1.50:
+Soda:1.00:
+Milkshake:2.00:
