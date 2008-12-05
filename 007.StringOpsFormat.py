@@ -14,3 +14,6 @@ print "We are the knights who say %s" % phrase
 			# Basically the '%s' means a string, there are other types of these too.
 			# They are called string formatting codes, and they have many uses.
 
+floatNum = 1.2
+
+print "%.5f" % floatNum
