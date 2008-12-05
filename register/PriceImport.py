@@ -19,7 +19,7 @@ def PriceListDict(filename):
 	# doesn't already exist. The "append" part then operates on the string
 	# referred to by the "rewrite" variable, adding it to the (possibly empty)
 	# list keyed by "head".
-		values.setdefault(head, []).append(rewrite)
+		values.setdefault(head, rewrite)
 	# Print a period for each dict record in filename
 	print "Done!"
 	return values
