@@ -21,7 +21,7 @@ import string
 def LooperPrinter(input):
 	SplitInput = [] # We need to create an empty List to store all of our output into.
 	for i in input.split(): # Here we are calling a new string method. We can do this thanks
-				# to the import string on line 7
+				# to the import string on line 8
 		SplitInput.append(i) # Now let's append the newly split(ed) strings to the List
 	return SplitInput	# And finally return the list
 
